@@ -1,4 +1,4 @@
-const accessKey="sLhULy8aRWGIJL8lJl1w63J1FEdztWPzXpI9tdGMid0"
+const accessKey='Enter your access key'
 const searchForm=document.getElementById("search")
 const searchBox=document.getElementById("search-box")
 const searchResult=document.getElementById("search-result")
